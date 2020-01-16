@@ -9,8 +9,10 @@ exports[`should render ExpenseListItem with the expense provided 1`] = `
       Gum
     </h3>
   </[object Object]>
-  195
-   - 
-  0
+  <p>
+    $ 1.95
+    -
+    31/Dec/1969
+  </p>
 </div>
 `;
